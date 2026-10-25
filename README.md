@@ -41,14 +41,14 @@ The Sales department and employees who work overtime show comparatively higher a
 
 These are descriptive associations from the dataset; they do **not** prove that overtime, department, income, or any other single factor caused employees to leave.
 
-## Project Files
-Place the relevant files in this repository, for example:
 
-- `HR_Analytics_Employee_Attrition.ipynb` — Python analysis notebook exported from Google Colab
-- `HR_Analytics_Employee_Attrition.sql` — MySQL practice and analysis queries
-- `HR_Analytics_Employee_Attrition.pbix` — Power BI dashboard
-- `HR_Analytics_Employee_Attrition.twbx` — Tableau packaged workbook
-- `README.md` — project documentation
+## Project Files
+
+- `HR_Analytics_Employee_Attrition_Analysis.ipynb` — Python analysis and visualizations using Google Colab.
+- `HR_Analytics_Employee_Attrition.sql` — MySQL queries for employee attrition analysis.
+- `HR project.pbix` — Power BI dashboard.
+- `HR_Analytics_Employee_Attrition.twb` — Tableau workbook.
+- `README.md` — Project overview, key findings, business insights, and conclusion.
 
 Adjust the file names above to match the exact names of your saved files. Add screenshots of the Power BI and Tableau dashboards in a `screenshots/` folder if you would like to show previews on GitHub.
 
